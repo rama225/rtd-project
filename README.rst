@@ -1,5 +1,6 @@
 Template for the Read the Docs tutorial
 =======================================
+I followed this tutorial and make a simple sphinix project.
 
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.
